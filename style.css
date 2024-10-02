@@ -8,9 +8,13 @@ body{
     width: 20vh;
     height: 20vh;
     text-align: left;
-    justify-content: center;   
+    justify-content: center;  
+    color: blue; 
    
 }
 #ddmenu{
     text-align: center;
+    background-color: rgb(7, 7, 215);
+    color: white;
+    border: 10px;
 }
